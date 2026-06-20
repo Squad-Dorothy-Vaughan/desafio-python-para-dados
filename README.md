@@ -1,6 +1,7 @@
 # Desafio - Python para Dados | Squad Dorothy Vaughan
 
 ## Integrantes:
+![Capa Squad](capa-squad-1.png)
 
 Sofia Sabrina Silva 👑   
 Fátima Souza Silva  
